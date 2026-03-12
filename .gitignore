@@ -29,3 +29,6 @@
 .vscode
 .idea
 .idea
+# Temp/debug files
+*.txt
+keygen.log
