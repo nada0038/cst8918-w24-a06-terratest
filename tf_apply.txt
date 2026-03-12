@@ -1,0 +1,2 @@
+﻿[0m[1mdata.cloudinit_config.init: Reading...[0m[0m
+[0m[1mdata.cloudinit_config.init: Read complete after 0s [id=4293555390][0m
